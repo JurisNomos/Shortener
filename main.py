@@ -43,7 +43,7 @@ def game():
         print(f'You ran out of attempts, the number is {answer}')
 
 if __name__ == '__main__':
-    print('Welcome Guessing!\n')
+    print('Welcome Guess!\n')
     again = True
 
     while again:
