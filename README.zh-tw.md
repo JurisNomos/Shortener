@@ -25,14 +25,13 @@
    git clone ssh://git@codeberg.org/JurisByte/Guess.git
    ```
 
-3. 開啟終端機或命令提示字元。
-4. 進入專案資料夾。
+3. 進入專案資料夾。
    
    ```bash
    cd Guess/
    ```
 
-5. 執行遊戲
+4. 執行遊戲
    
    ```bash
    python3 main.py

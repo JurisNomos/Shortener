@@ -25,14 +25,13 @@ I built this project to practice Python flow control (loops and conditionals), f
    git clone ssh://git@codeberg.org/JurisByte/Guess.git
    ```
 
-3. Open your terminal or command prompt.
-4. Navigate to the project folder.
+3. Navigate to the project folder.
 
    ```bash
    cd Guess/
    ```
 
-5. Run the game:
+4. Run the game:
 
    ```bash
    python3 main.py
