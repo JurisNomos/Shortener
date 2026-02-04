@@ -31,7 +31,7 @@
    cd Guess/
    ```
 
-4. 執行遊戲
+4. 執行遊戲。
    
    ```bash
    python3 main.py
