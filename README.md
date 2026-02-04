@@ -32,7 +32,7 @@ I built this project to practice Python flow control (loops and conditionals), f
 5. Run the game:
 
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 ## Example
