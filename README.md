@@ -13,20 +13,20 @@ I built this project to practice Python flow control (loops and conditionals), f
 1. Ensure you have Python installed.
    
    ```bash
-   $ python3 -V
+   python3 -V
    ```
 
 2. Download or clone this repository.
    
    ```bash
-   $ git clone ssh://git@codeberg.org/JurisByte/Guess.git
+   git clone ssh://git@codeberg.org/JurisByte/Guess.git
    ```
 
 3. Open your terminal or command prompt.
 4. Navigate to the project folder.
 
    ```bash
-   $ cd Guess/
+   cd Guess/
    ```
 
 5. Run the game:
