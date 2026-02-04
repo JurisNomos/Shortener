@@ -1,4 +1,6 @@
 # Guess
+![繁體中文](README.zh-tw.md)
+
 This is a simple console-based game built with Python. The program generates a random number within a custom range defined by the user, the user must guess what it is. The game provides feedback ("Too High" or "Too Low") to help guide the user to the correct answer.
 
 I built this project to practice Python flow control (loops and conditionals), function and user input handling.
