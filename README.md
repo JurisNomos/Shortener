@@ -34,26 +34,3 @@ I built this project to practice Python flow control (loops and conditionals), f
    ```bash
    python3 main.py
    ```
-
-## Example
-
-```text
-Welcome Guessing!
-
-Enter the lower bound: 1
-Enter the upper bound: 5
-You can attempts 5 times
-
-Guessing number (1 ~ 5): 6
-Invalid input, try again
-
-Guessing number (1 ~ 5): #
-Invalid input, please enter a valid number
-
-Guessing number (1 ~ 5): 5
-Too high
-
-Guessing number (1 ~ 5): 4
-Correct, you guessed the 4 in 2 attempts
-Do you went to play again? (Yes / No): no
-```
